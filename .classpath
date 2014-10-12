@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src.test.groovy"/>
+	<classpathentry kind="src" path="src.main.java"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry exported="true" kind="lib" path="/Users/itagakishintarou/.gradle/caches/modules-2/files-2.1/org.codehaus.groovy/groovy-all/2.3.7/feb6df9c6936c797159091a451ed8590d67101dc/groovy-all-2.3.7.jar" sourcepath="/Users/itagakishintarou/.gradle/caches/modules-2/files-2.1/org.codehaus.groovy/groovy-all/2.3.7/430d925914612a724c2cda9ddd6d3df58723abe6/groovy-all-2.3.7-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="/Users/itagakishintarou/.gradle/caches/modules-2/files-2.1/org.spockframework/spock-core/0.7-groovy-2.0/4de0b428de0c14b6eb6375d8174f71848cbfc1d7/spock-core-0.7-groovy-2.0.jar" sourcepath="/Users/itagakishintarou/.gradle/caches/modules-2/files-2.1/org.spockframework/spock-core/0.7-groovy-2.0/19f1e62a5094604766f83e55a693b9cdac3b271a/spock-core-0.7-groovy-2.0-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="/Users/itagakishintarou/.gradle/caches/modules-2/files-2.1/junit/junit-dep/4.10/64417b3bafdecd366afa514bd5beeae6c1f85ece/junit-dep-4.10.jar" sourcepath="/Users/itagakishintarou/.gradle/caches/modules-2/files-2.1/junit/junit-dep/4.10/2c7dad0a5eb1602c6fe6b43abec8ea35805b3ae4/junit-dep-4.10-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="/Users/itagakishintarou/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-core/1.3/42a25dc3219429f0e5d060061f71acb49bf010a0/hamcrest-core-1.3.jar" sourcepath="/Users/itagakishintarou/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-core/1.3/1dc37250fbc78e23a65a67fbbaf71d2e9cbc3c0b/hamcrest-core-1.3-sources.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
